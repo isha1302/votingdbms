@@ -23,10 +23,10 @@
                 </div>
 
                 <div class="mb-3">
-                    <input type="text" class= "form-control w-50 m-auto" name= "mobile" placeholder="Enter your mobile" required= "required" maxLength= "10" minLength="10'>
+                    <input type="text" class= "form-control w-50 m-auto" name= "mobile" placeholder="Enter your mobile" required= "required" maxLength= "10" minLength="10">
                 </div>
 
-                <div class="mb-3">
+                <div class= "mb-3">
                     <input type="text" class= "form-control w-50 m-auto" name= "password" placeholder="Enter your password" required= "required">
                 </div>
 
